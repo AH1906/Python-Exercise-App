@@ -3,14 +3,4 @@ customtkinter
 mediapipe
 numpy
 opencv-python
-pandas
 Pillow
-scikit-learn
-
-# Spreadsheet export used by the tracker variants
-openpyxl
-
-# Streamlit squat-analysis application
-av
-streamlit
-streamlit-webrtc
