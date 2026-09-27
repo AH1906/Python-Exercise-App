@@ -52,12 +52,19 @@ The app opens with a login/signup screen, then launches into exercise-specific w
 
 ## Setup
 
+Requires **Python 3.11**. This is a hard requirement, not just a recommendation: MediaPipe does not currently provide installable packages for newer Python versions (e.g. 3.12+), since it relies on pre-built wheels that lag behind the latest CPython releases. If you have multiple Python versions installed, make sure you're using 3.11 specifically when installing dependencies and running the app.
+
+This project was developed and tested using the Anaconda `base` environment. If you're using a different distribution (e.g. python.org), just make sure it's version 3.11.
+
 This app expects a `Datasheet.txt` file (excluded from the repo via `.gitignore`, since it stores login credentials) in the same directory as the login script, formatted as a Python dictionary of `{username: password}` pairs.
 
 To run the app locally:
 ```bash
 pip install -r requirements.txt
-cp Datasheet.sample.txt Datasheet.txt
+
+# Windows: copy Datasheet.sample.txt Datasheet.txt
+# Mac/Linux: cp Datasheet.sample.txt Datasheet.txt
+
 python main.py
 ```
 
