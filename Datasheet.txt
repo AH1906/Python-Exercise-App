@@ -1,1 +1,1 @@
-{'Username': 'Password', 'Admin': '1234', 'Abdul': 'Butt', 'Emo': 'B', 'Naveed23@': 'Naveedkhan23', 'hunain': 'hunain123', 'hashim': 'hashimamjad', 'HelloW': 'Welsh'}
+{'Username': 'Password', 'demo': 'DemoPass123', 'testuser': 'TestPass456'}
