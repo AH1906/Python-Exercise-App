@@ -3,6 +3,7 @@
 A desktop fitness application that uses real-time computer vision to track squats and deadlifts, count repetitions, and give live form feedback — built with MediaPipe pose estimation, OpenCV, and a Tkinter/CustomTkinter GUI.
 
 <img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/f3b4cc18-b4bf-4da2-9a2e-14d063ed4088" />
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/fc8f2271-0e8e-4cdd-bedc-f07f51aa175c" />
 <img width="446" height="322" alt="image" src="https://github.com/user-attachments/assets/aded3e03-128b-4a42-a11a-73a5ad45dc07" />
 <img width="599" height="468" alt="image" src="https://github.com/user-attachments/assets/fabbce2b-31e1-4fc2-8d0b-bd5fe322b3fd" />
 <img width="598" height="470" alt="image" src="https://github.com/user-attachments/assets/074054e5-f387-4376-bdf8-782e56807614" />
