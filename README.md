@@ -71,9 +71,6 @@ To run the app locally:
 ```bash
 pip install -r requirements.txt
 
-# Windows: copy Datasheet.sample.txt Datasheet.txt
-# Mac/Linux: cp Datasheet.sample.txt Datasheet.txt
-
 python main.py
 ```
 
