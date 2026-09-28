@@ -10,7 +10,10 @@ A desktop fitness application that uses real-time computer vision to track squat
 <img width="595" height="470" alt="image" src="https://github.com/user-attachments/assets/4bc0ca6d-9949-4edd-810a-8807af5e25db" />
 <img width="599" height="471" alt="image" src="https://github.com/user-attachments/assets/f4159f10-1dff-497d-aa9c-69da56ee41ef" />
 <img width="297" height="245" alt="image" src="https://github.com/user-attachments/assets/64870927-dbd2-4439-9650-b730ad642cf0" />
-
+<img width="420" height="488" alt="image" src="https://github.com/user-attachments/assets/fc4f65fd-fe9a-417c-812e-c761363a95b9" />
+<img width="323" height="490" alt="image" src="https://github.com/user-attachments/assets/7365a8ec-eeaa-451a-839d-5eafe9825633" />
+<img width="434" height="551" alt="image" src="https://github.com/user-attachments/assets/043de73d-ead7-4b62-abe9-c54efcd358ff" />
+<img width="389" height="550" alt="image" src="https://github.com/user-attachments/assets/8e994c5e-a092-4403-b07b-90828f8a69bc" />
 
 ## Overview
 
